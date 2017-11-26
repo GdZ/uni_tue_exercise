@@ -1,0 +1,17 @@
+Your submission should look like the submission_example folder.
+
+A brief description of the data in the data.csv file follows:
+
+time	= Timestamp of recording in microseconds (Important)
+
+left_x		= Left Eye x-coordinate (Important)
+left_y		= Left Eye y-coordinate (Important)
+left_w		= Left Eye elliptical width (Ignore)
+left_h		= Left Eye elliptical hight (Ignore)
+left_valid	= Was it a valid measure (Important)
+
+right_x		= Right Eye x-coordinate (Important)
+right_y		= Right Eye y-coordinate (Important)
+right_w		= Right Eye elliptical width (Ignore)
+right_h		= Right Eye elliptical hight (Ignore)
+right_valid	= Was it a valid measure (Important)

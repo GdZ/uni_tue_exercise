@@ -1,0 +1,21 @@
+%  |<-- 1000 pixels -->|
+% A|---------C---------|B
+%   \        |        /
+%    \       |       /
+%     \      |      /
+%      \   600mm   /
+%       \    |    /
+%        \   |   /
+%         \  |  /
+%          \ | /
+%           \./
+%            D
+% angle = 2*atand(AC/CD)
+% ---------------------------------
+% WIDTH = 500;
+% img = imread(GL_IMAGE_FILE);
+% img_size = size(img);
+% img_col_size = img_size(1,2);
+% ratio_width = img_col_size / WIDTH;
+% angle = 2*atand(1000/(ratio_width*2*600))
+angle:18.488845

@@ -1,0 +1,9 @@
+% WIDTH = 500;
+% HEIGTH = 300;
+% img = imread(GL_IMAGE_FILE);
+% img_size = size(img);
+% img_row_size = img_size(1,1);
+% img_col_size = img_size(1,2);
+% ratio_width = img_col_size / WIDTH;
+% radio_height = img_row_size / HEIGTH;
+ratio_width: 5.120000, ratio_height: 5.333333
