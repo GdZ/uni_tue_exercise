@@ -103,34 +103,3 @@ DF = 10;
 vergence = (AB*CE)/(AB+DF);
 fprintf('vergence:%f\n', vergence);
 disp('exericse 2.5 finished.....');
-
-%% exercise 3: I-VT and I-DT
-%%% I-VT
-[fixations] = function I_VT(protocol, threshold)
-    fixations = [];
-    time = 1;
-    x = 2;
-    y = 3;
-    D = 600;
-    LOW_THRESHOLD = 100;
-    HIGH_THRESHOLD = 300;
-    for i=1:size(protocol)
-        if 1 == i
-            continue;
-        end
-        point_old = protocol(i-1,:);
-        point = protocol(i,:);
-        velocity = atand(sqrt((point(x)-point_old(x))^2+...
-                              (point(y)-point_old(y))^2)...
-                            /(2*D))...
-                    /(point(time)-point_old(time));
-
-        if LOW_THRESHOLD > velocity || HIGH_THRESHOLD < velocity
-            fixations = point;
-            protocol(i,:) = [];
-        end
-    end
-end
-
-%%% I-DT
-
