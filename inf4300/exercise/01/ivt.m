@@ -4,7 +4,7 @@
 %%% acceleration.
 %%% when bigger than 300 deg/s belongs to saccades,
 %%% smaller than 100 deg/s belongs to fixation
-function [fixations] = ivt(protocol, threshold)
+function [fixations, saccades] = ivt(protocol, threshold)
     disp([size(protocol) threshold])
     fixations = [];
     saccades = [];
@@ -24,20 +24,21 @@ function [fixations] = ivt(protocol, threshold)
         velocity = atand(...
                        sqrt((point(x)-point_old(x))^2+(point(y)-point_old(y))^2)...
                             /(2*D))...
-                    /(point(time)-point_old(time)) * 1000;
+                    /(point(time)-point_old(time)) * 1000000;
 
         %%% if velocity of this point is below 100 deg/s, mark as fixation
         %%% point
         if 100 > velocity
             %%% mark as fixation point, then add to fixation list
             fixations = point;
-            fprintf('[fixation] %d. velocity: %f\n', i, velocity);
+            %fprintf('[fixation] %d. velocity: %f\n', i, velocity);
         else %if 300 < velocity
             %%% mark as sccade point, then add to sccades list
             saccades = point;
             fprintf('[saccade] %d. velocity: %f\n', i, velocity);
         end
     end
+    disp(size(fixations));
 end
 
 %%% I-DT
