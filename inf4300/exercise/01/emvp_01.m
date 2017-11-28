@@ -40,9 +40,9 @@ right_data = data;
 
 %%% 2.3 begin
 disp('exericse 2.3 ......');
-ratio_width = img_col_size / WIDTH;
-radio_height = img_row_size / HEIGTH;
-fprintf('ratio_width: %f, ratio_height: %f\n', ratio_width, radio_height);
+ratio_width =  WIDTH / img_col_size;
+radio_height = HEIGTH / img_row_size;
+fprintf('ratio_width: %f pixel/mm, ratio_height: %f pixel/mm\n', ratio_width, radio_height);
 disp('exericse 2.3 finished......');
 %%% end
 

@@ -1,7 +1,5 @@
 %%% I-DT
-function [ fixations ] = idt( protocol, threshold )
-%UNTITLED3 此处显示有关此函数的摘要
-%   此处显示详细说明
+function [ fixations ] = idt( protocol, dispersion, duration)
     fixations = [];
     time = 1;
     x = 2;
