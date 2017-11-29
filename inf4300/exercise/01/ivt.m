@@ -23,7 +23,6 @@
 %%% 4. velocity ist:
 %%%     velocity = 2*θ/?T
 function [left_fixations, right_fixations] = ivt(protocol)
-    %disp([size(protocol) threshold]);
     % ratio_width: 0.195312 pixel/mm, ratio_height: 0.187500 pixel/mm
     width_ratio = 0.195312;
     height_ratio = 0.187500;
@@ -100,11 +99,11 @@ function [left_fixations, right_fixations] = ivt(protocol)
         end
     end
 
-    img = imread('stimuli.jpg');
-    imshow(img);
+%     img = imread('stimuli.jpg');
+%     imshow(img);
     hold on;
     size(left_fixations)
     scatter(left_fixations(:, x), left_fixations(:, y), '.', 'blue', 'LineWidth', 0.01);
-    scatter(right_fixations(:, x), right_fixations(:, y), '.', 'red', 'LineWidth', 0.01);
+%     scatter(right_fixations(:, x), right_fixations(:, y), '.', 'red', 'LineWidth', 0.01);
     hold off;
 end
