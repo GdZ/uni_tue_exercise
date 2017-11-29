@@ -1,1 +1,6 @@
-Your answer here.
+they are shifted.
+
+IDT is Dispersion-based methods, event detection on distances between subsequent data points. Temporally adjacent samples must be located within a spatially limited region
+
+IVT is mostly based on volocity or acceleration thresholds
+
