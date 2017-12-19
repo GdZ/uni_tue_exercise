@@ -19,3 +19,30 @@
 [submodule "vorkurs/DingesWolf-Mathe1-Dorn-WS1516"]
 	path = vorkurs/DingesWolf-Mathe1-Dorn-WS1516
 	url = https://github.com/JW301/DingesWolf-Mathe1-Dorn-WS1516.git
+[submodule "vorkurs/robotiki-uebungsblaetter"]
+	path = vorkurs/robotiki-uebungsblaetter
+	url = https://bitbucket.org/Jan-Peter/robotiki-uebungsblaetter.git
+[submodule "vorkurs/ptb"]
+	path = vorkurs/ptb
+	url = https://github.com/FloriF/ptb.git
+[submodule "vorkurs/Algorithmen-Skript-Update-SS-16"]
+	path = vorkurs/Algorithmen-Skript-Update-SS-16
+	url = https://github.com/FloriF/Algorithmen-Skript-Update-SS-16.git
+[submodule "vorkurs/Functional-Programming-WS1516"]
+	path = vorkurs/Functional-Programming-WS1516
+	url = https://github.com/FinnIckler/Functional-Programming-WS1516.git
+[submodule "vorkurs/SS15-Skripte"]
+	path = vorkurs/SS15-Skripte
+	url = https://github.com/FinnIckler/SS15-Skripte.git
+[submodule "vorkurs/tool-kit/matlab-save-figure"]
+	path = vorkurs/tool-kit/matlab-save-figure
+	url = https://github.com/djoshea/matlab-save-figure.git
+[submodule "vorkurs/tool-kit/matlab-utils"]
+	path = vorkurs/tool-kit/matlab-utils
+	url = https://github.com/djoshea/matlab-utils.git
+[submodule "vorkurs/tool-kit/matlab-barplot"]
+	path = vorkurs/tool-kit/matlab-barplot
+	url = https://github.com/djoshea/matlab-barplot.git
+[submodule "vorkurs/tool-kit/matdb"]
+	path = vorkurs/tool-kit/matdb
+	url = https://github.com/djoshea/matdb.git
