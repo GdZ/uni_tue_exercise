@@ -1,0 +1,21 @@
+[submodule "vorkurs/skript-mathe2"]
+	path = vorkurs/skript-mathe2
+	url = https://github.com/FloriF/skript-mathe2.git
+[submodule "vorkurs/skript-mathe-3"]
+	path = vorkurs/skript-mathe-3
+	url = https://github.com/FloriF/skript-mathe-3.git
+[submodule "vorkurs/DingesWolf-Mathe3-WS1617"]
+	path = vorkurs/DingesWolf-Mathe3-WS1617
+	url = https://github.com/JW301/DingesWolf-Mathe3-WS1617.git
+[submodule "vorkurs/algoskript-ss15"]
+	path = vorkurs/algoskript-ss15
+	url = https://bitbucket.org/de_kuenstle/algoskript-ss15.git
+[submodule "vorkurs/krypto-skript"]
+	path = vorkurs/krypto-skript
+	url = https://bitbucket.org/Jan-Peter/krypto-skript.git
+[submodule "vorkurs/Info-I"]
+	path = vorkurs/Info-I
+	url = https://github.com/Boeserwolff/Info-I.git
+[submodule "vorkurs/DingesWolf-Mathe1-Dorn-WS1516"]
+	path = vorkurs/DingesWolf-Mathe1-Dorn-WS1516
+	url = https://github.com/JW301/DingesWolf-Mathe1-Dorn-WS1516.git
