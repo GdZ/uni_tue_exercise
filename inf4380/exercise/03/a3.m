@@ -51,11 +51,11 @@ ex1_without_dependece = letter(fixations(:,4)')
 
 %%% exercise 3.4.2 ex2-without-dependece.txt
 fixations = nodependece(data_ex2);
-ex1_without_dependece = letter(fixations(:,4)')
+ex2_without_dependece = letter(fixations(:,4)')
 
 %%% exercise 3.4.3 ex3-without-dependece.txt
 fixations = nodependece(data_ex3);
-ex1_without_dependece = letter(fixations(:,4)')
+ex3_without_dependece = letter(fixations(:,4)')
 
 %%% exercise 3.4.1 ex1-without-dependece.txt
 fixations = dependece(data_ex1);
@@ -63,9 +63,9 @@ ex1_with_dependece = letter(fixations(:,3)')
 
 %%% exercise 3.4.2 ex2-without-dependece.txt
 fixations = dependece(data_ex2);
-ex1_with_dependece = letter(fixations(:,3)')
+ex2_with_dependece = letter(fixations(:,3)')
 
 %%% exercise 3.4.3 ex3-without-dependece.txt
 fixations = dependece(data_ex3);
-ex1_with_dependece = letter(fixations(:,3)')
+ex3_with_dependece = letter(fixations(:,3)')
 
