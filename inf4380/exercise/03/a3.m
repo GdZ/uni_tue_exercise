@@ -24,16 +24,16 @@ idx_letter = {0,100,400,500; 100,200,400,500; 200,300,400,500; 300,400,400,500; 
 			  0,100,0,100;   100,200,0,100;   200,300,0,100;   300,400,0,100;   400,500,0,100};
 
 %% 3.1
-figure(1);
-hold on;
+%figure(1);
+%hold on;
 % x-line
-for x=1:length(idx)
-	line([idx(x),idx(x)],[1,500], 'LineWidth', 5.0, 'color', 'black');
-end
+%for x=1:length(idx)
+%	line([idx(x),idx(x)],[1,500], 'LineWidth', 5.0, 'color', 'black');
+%end
 % y-line
-for y=1:length(idx)
-	line([1,500],[idx(y),idx(y)], 'LineWidth', 5.0, 'color', 'black');
-end
+%for y=1:length(idx)
+%	line([1,500],[idx(y),idx(y)], 'LineWidth', 5.0, 'color', 'black');
+%end
 
 %% 3.2
 % draw text
@@ -45,86 +45,27 @@ for i=1:length(idx_txt)
 	end
 end
 
-%% get a item from ex1
-idx_x = [];
-idx_y = [];
-data = data_ex1;
-for j=1:length(data)
-	%% if this item belongs to the letter from letter list
-	cur = data(j,:);
-	%% save the idx of x
-	for i=1:length(idx)
-		if cur(1) < idx(i)
-			idx_x = [idx_x i];
-			break;
-		end
-	end
-	%% save the idx of y
-	for i=1:length(idx)
-		if cur(1) < idx(i)
-			idx_y = [idx_y i];
-			break;
-		end
-	end
-end
-%% fixation
-%%fixations = [ idx_x' idx_y' data(:,3) ];
-%%% 4.1 ex1-without-dependece.txt
-pos = (idx_x-1)*5+idx_y;
-ex1_without_dependece = letter(pos)
+%%% exercise 3.4.1 ex1-without-dependece.txt
+fixations = nodependece(data_ex1);
+ex1_without_dependece = letter(fixations(:,4)')
 
-%% get a item from ex2
-idx_x = [];
-idx_y = [];
-data = data_ex2;
-for j=1:length(data)
-	%% if this item belongs to the letter from letter list
-	cur = data(j,:);
-	%% save the idx of x
-	for i=1:length(idx)
-		if cur(1) < idx(i)
-			idx_x = [idx_x i];
-			break;
-		end
-	end
-	%% save the idx of y
-	for i=1:length(idx)
-		if cur(1) < idx(i)
-			idx_y = [idx_y i];
-			break;
-		end
-	end
-end
-%% fixation
-%%fixations = [ idx_x' idx_y' data(:,3) ];
-%%% 4.2 ex2-without-dependece.txt
-pos = (idx_x-1)*5+idx_y;
-ex2_without_dependece = letter(pos)
+%%% exercise 3.4.2 ex2-without-dependece.txt
+fixations = nodependece(data_ex2);
+ex1_without_dependece = letter(fixations(:,4)')
 
-%% get a item from ex2
-idx_x = [];
-idx_y = [];
-data = data_ex3;
-for j=1:length(data)
-	%% if this item belongs to the letter from letter list
-	cur = data(j,:);
-	%% save the idx of x
-	for i=1:length(idx)
-		if cur(1) < idx(i)
-			idx_x = [idx_x i];
-			break;
-		end
-	end
-	%% save the idx of y
-	for i=1:length(idx)
-		if cur(1) < idx(i)
-			idx_y = [idx_y i];
-			break;
-		end
-	end
-end
-%% fixation
-%%fixations = [ idx_x' idx_y' data(:,3) ];
-%%% 4.2 ex3-without-dependece.txt
-pos = (idx_x-1)*5+idx_y;
-ex3_without_dependece = letter(pos)
+%%% exercise 3.4.3 ex3-without-dependece.txt
+fixations = nodependece(data_ex3);
+ex1_without_dependece = letter(fixations(:,4)')
+
+%%% exercise 3.4.1 ex1-without-dependece.txt
+fixations = dependece(data_ex1);
+ex1_with_dependece = letter(fixations(:,3)')
+
+%%% exercise 3.4.2 ex2-without-dependece.txt
+fixations = dependece(data_ex2);
+ex1_with_dependece = letter(fixations(:,3)')
+
+%%% exercise 3.4.3 ex3-without-dependece.txt
+fixations = dependece(data_ex3);
+ex1_with_dependece = letter(fixations(:,3)')
+
