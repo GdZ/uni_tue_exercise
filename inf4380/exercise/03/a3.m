@@ -34,28 +34,7 @@ idx_letter = {0,100,400,500; 100,200,400,500; 200,300,400,500; 300,400,400,500; 
 			0,100,100,200; 100,200,100,200; 200,300,200,300; 300,400,100,200; 400,500,100,200; ...
 			  0,100,0,100;   100,200,0,100;   200,300,0,100;   300,400,0,100;   400,500,0,100};
 
-%% 3.1
-%figure(1);
-%hold on;
-% x-line
-%for x=1:length(idx)
-%	line([idx(x),idx(x)],[1,500], 'LineWidth', 5.0, 'color', 'black');
-%end
-% y-line
-%for y=1:length(idx)
-%	line([1,500],[idx(y),idx(y)], 'LineWidth', 5.0, 'color', 'black');
-%end
-
-%% 3.2
-% draw text
-%for i=1:length(idx_txt)
-%	for j=1:length(idx_txt)
-%		[i j (i-1)*5+j];
-%		%idx_cur = (i-1)*5+j;
-%		%text = letter[idx_cur];
-%	end
-%end
-
+% =============================================================
 %%% exercise 3.4.1 ex1-without-dependece.txt
 ex1_without_fixations = nodependece(data_ex1);
 ex1_without_dependece = letter(ex1_without_fixations(:,3)')
@@ -80,6 +59,10 @@ ex2_with_dependece = letter(ex2_with_fixations(:,3)')
 ex3_with_fixations = dependece(data_ex3);
 ex3_with_dependece = letter(ex3_with_fixations(:,3)')
 
-%% exercise 4
+% =============================================================
+%% exercise 4.2
 %%% use ex1/2/3_with_dependece
-%costs(ex1_with_fixations);
+ex1_costs = costs(ex1_with_fixations)
+ex2_costs = costs(ex2_with_fixations)
+ex3_costs = costs(ex3_with_fixations)
+%% exercise 4.3
