@@ -39,7 +39,8 @@ function [values] = costs(fixations)
 				vv(x, y) = vv(x-1,y)-1;
 			end
 		end
-		values = [ values abs(sum(sum(vv)))];
+		vv(x_flag, y_flag) = abs(sum(sum(vv)));
+		values = [ values vv(x_flag, y_flag)];
 	end
 	%%values
 end

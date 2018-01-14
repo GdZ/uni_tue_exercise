@@ -62,7 +62,36 @@ ex3_with_dependece = letter(ex3_with_fixations(:,3)')
 % =============================================================
 %% exercise 4.2
 %%% use ex1/2/3_with_dependece
-ex1_costs = costs(ex1_with_fixations)
-ex2_costs = costs(ex2_with_fixations)
-ex3_costs = costs(ex3_with_fixations)
+ex1_with_costs = costs(ex1_with_fixations)
+ex2_with_costs = costs(ex2_with_fixations)
+ex3_with_costs = costs(ex3_with_fixations)
+
 %% exercise 4.3
+ex1_without_costs = costs(ex1_without_fixations)
+ex2_without_costs = costs(ex2_without_fixations)
+ex3_without_costs = costs(ex3_without_fixations)
+diff_1_2 = ex1_without_costs - ex2_without_costs
+diff_1_3 = ex1_without_costs - ex3_without_costs
+diff_2_3 = ex2_without_costs - ex3_without_costs
+
+%% exercise 4.4
+max(ex1_with_costs)*length(ex1_with_costs)
+max(ex2_with_costs)*length(ex2_with_costs)
+max(ex3_with_costs)*length(ex3_with_costs)
+%norm(ex1_with_costs,1)
+%norm(ex2_with_costs,1)
+%norm(ex3_with_costs,1)
+
+% =============================================================
+%% exercise 5
+%% use the string with duration dependence here
+%% Needleman-Wunsch algorithm
+%%   a. use the mean of all negative cost entries in the cost tables as gap
+%% cost(-3.2).
+%%   b. Create matrix with size(m+1, n+1) where m is the length of the first
+%% string and n the length of the second string.
+%%   c. Initialize matrix as shown in Figure 3.
+%%   d. Start in the top left empty cell.
+%%   e. Calculate:
+%%      i. Matrix[i-1, j] + gap
+%% 		ii. Matrix[i, j-1] + gap
