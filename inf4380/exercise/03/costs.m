@@ -1,8 +1,12 @@
 function [values] = costs(fixations)
+	GL_IDX_X = 1;
+	GL_IDX_Y = 2;
 	values = [];
-	idx_x = fixations(:, 1);
-	idx_y = fixations(:, 2);
+	idx_x = fixations(:, GL_IDX_X);
+	idx_y = fixations(:, GL_IDX_Y);
 	v = zeros(length(fixations),25);
+
+	%fixations
 
 	ids = (idx_x-1)*5 + idx_y;
 
@@ -13,7 +17,7 @@ function [values] = costs(fixations)
 		%% fetch one fixation
 		y_flag = idx_y(one);
 		x_flag = idx_x(one);
-		[x_flag y_flag];
+		%[x_flag y_flag]
 
 		%% compute the current row
 		for y=y_flag-1:-1:1

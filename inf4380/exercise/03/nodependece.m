@@ -19,6 +19,6 @@ function [fixations] = nodependece(data)
 	end
 	[length(idx_x), length(idx_y), length(data)];
 	pos = (idx_x-1)*5 + idx_y;
-	fixations = [ idx_x', idx_y', pos', data];
-
+	fixations = [ idx_x', idx_y', data(:,3), pos'];
+	%fixations = [data pos'];
 end
