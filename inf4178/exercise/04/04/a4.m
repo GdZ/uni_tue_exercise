@@ -13,7 +13,7 @@ IDX_R = 1;
 IDX_G = 2;
 IDX_B = 3;
 
-img_a01 = imread(GL_IMG_A02);
+img_a01 = imread(GL_IMG_A01);
 channel_red = img_a01(:,:,IDX_R);
 contrast_red = Contrast(channel_red);
 lum_a1 = Luminant(img_a01);
@@ -27,16 +27,32 @@ lum_a1 = Luminant(img_a01);
 %lum_mean = 0.5;
 %% real
 lum_a1_d = double(lum_a1);
-lum_sz = size(lum_a1_d)
+lum_sz = size(lum_a1);
 ppd = 61;
 lum_mean = sum(lum_a1_d(:))/length(lum_a1_d(:));
 contrast = (max(lum_a1_d(:))-min(lum_a1_d(:)))/lum_mean;
-ramp_width = 10;
+ramp_width = 20;
 exponent = 2.75;
-i=250;
-%figure, plot(1:lum_sz(1), lum_a1_d(i,:));
-[ lum_sz ppd contrast ramp_width exponent lum_mean ]
-stim = Cornsweet(lum_a1_d(i,:), lum_sz, ppd, contrast, ramp_width, exponent, lum_mean);
-figure,plot(1:length(stim(:)), stim(:));
-grid on;
+
+edge = Edge(contrast_red, length(contrast_red(1,:)));
+
+cornsweet = lum_a1;
+params = [ lum_sz ppd contrast ramp_width exponent lum_mean ]
+for x=min(edge(:,1)):max(edge(:,2))
+    pos_y = edge(find(edge(:,1) == x), 2)';
+    if 1 > length(line)
+        continue;
+    end
+    stim = Cornsweet(cornsweet(x,:), pos_y, lum_sz, ppd, contrast, ramp_width, exponent, lum_mean);
+    cornsweet(x,:) = stim;
+end
+%figure,imshow(cornsweet);
+img = img_a01;
+for i=1:3
+    img(:,:,i) = cornsweet;
+end
+
+%% create stereo
+stereo = Stereo(img);
+imshow(stereo);
 
