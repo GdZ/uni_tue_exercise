@@ -46,13 +46,13 @@ for x=min(edge(:,1)):max(edge(:,2))
     stim = Cornsweet(cornsweet(x,:), pos_y, lum_sz, ppd, contrast, ramp_width, exponent, lum_mean);
     cornsweet(x,:) = stim;
 end
-%figure,imshow(cornsweet);
 img = img_a01;
 for i=1:3
     img(:,:,i) = cornsweet;
 end
+figure,imshow(img);
 
 %% create stereo
 stereo = Stereo(img);
-imshow(stereo);
+figure,imshow(stereo);
 
