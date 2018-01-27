@@ -44,13 +44,9 @@ GL_IMG_CONTRAST_R = 'contrast_r.png';
 GL_IMG_CONTRAST_G = 'contrast_g.png';
 GL_IMG_CONTRAST_B = 'contrast_b.png';
 brightness = [];
-c_x = [ -1 0 1 -1 1 -1 0 1 ];
-c_y = [ -1 -1 -1 0 0 1 1 1 ];
 
 %%% exercise 03.02
-brightness = img_example(:,:, IDX_R)*WET_BR ...
-			+ img_example(:,:, IDX_G)*WET_BG ...
-			+ img_example(:,:, IDX_B)*WET_BB;
+brightness = Brightness(img_example);
 %% exercise 3: output
 imwrite(brightness, GL_IMG_BRIGHTNESS);
 
@@ -82,3 +78,12 @@ img_contrast_diff(:,:,IDX_B) = contrast_diff_b;
 
 %% =========================================
 % exercise 4
+saliency_maps = [];
+pos = [];
+for i=26:length(img_example(:,1,IDX_R))-26
+	for j=26:length(img_example(1,:,IDX_R))-26
+		pos = [ pos; i j ];
+	end
+end
+
+%saliency_maps = [ saliency_maps Saliency(i', j, img_example(:,:,IDX_R)) ];
