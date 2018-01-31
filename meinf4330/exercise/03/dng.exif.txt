@@ -1,0 +1,1249 @@
+======== res/Bild_20172_01.DNG
+ExifTool Version Number         : 10.10
+File Name                       : Bild_20172_01.DNG
+Directory                       : res
+File Size                       : 25 MB
+File Modification Date/Time     : 2017:12:14 14:13:02+01:00
+File Access Date/Time           : 2017:12:14 14:13:53+01:00
+File Inode Change Date/Time     : 2017:12:14 14:13:02+01:00
+File Permissions                : rw-rw-r--
+File Type                       : DNG
+File Type Extension             : dng
+MIME Type                       : image/x-adobe-dng
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Leica Camera AG
+Camera Model Name               : LEICA M (Typ 240)
+Orientation                     : Horizontal (normal)
+Software                        :        2.0.0.11
+Modify Date                     : 2013:12:08 15:43:09
+Artist                          : Thomas Walter
+Subfile Type                    : Full-resolution Image
+Image Width                     : 5984
+Image Height                    : 4000
+Bits Per Sample                 : 16
+Compression                     : JPEG
+Photometric Interpretation      : Color Filter Array
+Strip Offsets                   : 18878
+Samples Per Pixel               : 1
+Rows Per Strip                  : 4000
+Strip Byte Counts               : 25272319
+X Resolution                    : 300
+Y Resolution                    : 300
+Planar Configuration            : Chunky
+Resolution Unit                 : inches
+CFA Repeat Pattern Dim          : 2 2
+CFA Pattern 2                   : 2 1 1 0
+Black Level Repeat Dim          : 1 1
+Black Level                     : 0
+White Level                     : 15000
+Default Crop Origin             : 4 4
+Default Crop Size               : 5976 3992
+Bayer Green Split               : 50
+Anti Alias Strength             : 0
+Y Cb Cr Coefficients            : 0.299 0.587 0.114
+Reference Black White           : 0 255 128 255 128 255
+XMP Toolkit                     : Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45
+Format                          : image/dng
+Creator Tool                    :        2.0.0.11
+Rating                          : 0
+Metadata Date                   : 2013:12:18 15:21:50+01:00
+Lens                            : Summilux-M 1:1.4/35 ASPH.
+Date Created                    : 2013:12:08 15:43:09
+Document ID                     : 30303030303030303030343138313937
+Original Document ID            : 30303030303030303030343138313937
+Instance ID                     : xmp.iid:6079c673-a104-2544-b522-fd785cee93f3
+Raw File Name                   : M2403003.DNG
+Version                         : 8.3
+Process Version                 : 6.7
+White Balance                   : As Shot
+Auto White Version              : 134348800
+Color Temperature               : 3800
+Tint                            : -19
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : 0
+Auto Lateral CA                 : 0
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Clarity 2012                    : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Convert To Grayscale            : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 7CCBA6DDDDFC0F5EC64D8E48C71A8E0A
+Lens Profile Setup              : LensDefaults
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : False
+Photographic Sensitivity        : 500
+Creator                         : Thomas Walter
+Rights                          : MediaFotografie
+History Action                  : saved
+History Instance ID             : xmp.iid:6079c673-a104-2544-b522-fd785cee93f3
+History When                    : 2013:12:18 15:21:50+01:00
+History Software Agent          : Adobe Photoshop Camera Raw 8.3 (Windows)
+History Changed                 : /metadata
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Copyright                       : MediaFotografie
+Exposure Time                   : 1/60
+F Number                        : 4.8
+Exposure Program                : Aperture-priority AE
+ISO                             : 500
+Exif Version                    : 0220
+Create Date                     : 2013:12:08 15:43:09
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/72
+Aperture Value                  : 4.8
+Exposure Compensation           : 0
+Max Aperture Value              : 1.4
+Metering Mode                   : Center-weighted average
+Light Source                    : Unknown
+Flash                           : No Flash
+Focal Length                    : 35.0 mm
+Preview Image                   : (Binary data 410624 bytes, use -b option to extract)
+Warning                         : [minor] Error reading value for MakerNotes entry 2
+Lens Type                       : Summilux-M 1:1.4/35 ASPH.
+Color Space                     : sRGB
+Exif Image Width                : 5984
+Exif Image Height               : 4000
+Focal Plane X Resolution        : 1653.333344
+Focal Plane Y Resolution        : 1653.333344
+Focal Plane Resolution Unit     : cm
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Digital Zoom Ratio              : 0
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Hard
+Image Unique ID                 : 00000000000000000000000000418197
+Serial Number                   : 4788984
+Lens Model                      : Summilux-M 1:1.4/35 ASPH.
+GPS Version ID                  : 2.2.0.0
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 00:00:00
+GPS Status                      : Measurement Void
+GPS Dilution Of Precision       : 0
+GPS Speed Ref                   : Unknown ()
+GPS Speed                       : 0
+GPS Track                       : 0
+GPS Date Stamp                  : 0000:00:00
+Self Timer Mode                 : 0
+Date/Time Original              : 2013:12:08 15:43:09
+TIFF-EP Standard ID             : 0 0 0 1
+DNG Version                     : 1.3.0.0
+DNG Backward Version            : 1.1.0.0
+Unique Camera Model             : LEICA M (Typ 240)
+Color Matrix 1                  : 0.7571 -0.2249 -0.0223 -0.4171 1.3145 0.1062 -0.0357 0.1601 0.7591
+Color Matrix 2                  : 0.6653 -0.1486 -0.0611 -0.4221 1.3303 0.0929 -0.0881 0.2416 0.7226
+Camera Calibration 1            : 1 0 0 0 1 0 0 0 1
+Camera Calibration 2            : 1 0 0 0 1 0 0 0 1
+As Shot Neutral                 : 0.5355648536 1 0.6844919786
+Baseline Exposure               : 0
+Baseline Noise                  : 1
+Baseline Sharpness              : 1
+Linear Response Limit           : 1
+Camera Serial Number            : 4788984
+Shadow Scale                    : 1
+Calibration Illuminant 1        : Standard Light A
+Calibration Illuminant 2        : D65
+Raw Data Unique ID              : 30303030303030303030343138313937
+Aperture                        : 4.8
+CFA Pattern                     : [Blue,Green][Green,Red]
+GPS Altitude                    : 0 m Above Sea Level
+GPS Date/Time                   : 0000:00:00 00:00:00Z
+Image Size                      : 5984x4000
+Lens ID                         : Summilux-M 1:1.4/35 ASPH.
+Megapixels                      : 23.9
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/60
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 54.7 deg
+Focal Length                    : 35.0 mm (35 mm equivalent: 34.8 mm)
+Hyperfocal Distance             : 8.44 m
+Light Value                     : 8.1
+======== res/Bild_20172_02.NEF
+ExifTool Version Number         : 10.10
+File Name                       : Bild_20172_02.NEF
+Directory                       : res
+File Size                       : 73 MB
+File Modification Date/Time     : 2017:12:14 14:13:28+01:00
+File Access Date/Time           : 2017:12:14 14:15:02+01:00
+File Inode Change Date/Time     : 2017:12:14 14:13:28+01:00
+File Permissions                : rw-rw-r--
+File Type                       : NEF
+File Type Extension             : nef
+MIME Type                       : image/x-nikon-nef
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D800
+Orientation                     : Horizontal (normal)
+Software                        : Ver.1.02
+Modify Date                     : 2013:12:08 15:30:51
+Artist                          : Thomas Walter
+Jpg From Raw Start              : 994816
+Jpg From Raw Length             : 2565773
+Y Cb Cr Positioning             : Co-sited
+Image Width                     : 7424
+Image Height                    : 4924
+Bits Per Sample                 : 14
+Compression                     : Uncompressed
+Photometric Interpretation      : Color Filter Array
+Strip Offsets                   : (Binary data 10969 bytes, use -b option to extract)
+Samples Per Pixel               : 1
+Rows Per Strip                  : 4
+Strip Byte Counts               : (Binary data 7385 bytes, use -b option to extract)
+X Resolution                    : 300
+Y Resolution                    : 300
+Planar Configuration            : Chunky
+Resolution Unit                 : inches
+CFA Repeat Pattern Dim          : 2 2
+CFA Pattern 2                   : 0 1 1 2
+Subfile Type                    : Reduced-resolution image
+Other Image Start               : 193536
+Other Image Length              : 800901
+Reference Black White           : 0 255 0 255 0 255
+Copyright                       : Thomas Walter
+Exposure Time                   : 1/125
+F Number                        : 3.3
+Exposure Program                : Aperture-priority AE
+ISO                             : 400
+Sensitivity Type                : Recommended Exposure Index
+Create Date                     : 2013:12:08 15:30:51
+Exposure Compensation           : 0
+Max Aperture Value              : 1.7
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 50.0 mm
+Maker Note Version              : 2.10
+Quality                         : RAW
+White Balance                   : Auto1
+Focus Mode                      : AF-S
+Flash Setting                   : 
+Flash Type                      : 
+White Balance Fine Tune         : 0 0
+WB RB Levels                    : 1.5859375 1.62109375 1 1
+Program Shift                   : 0
+Exposure Difference             : 0
+Preview Image Start             : 25276
+Preview Image Length            : 99932
+Flash Exposure Compensation     : 0
+ISO Setting                     : 400
+External Flash Exposure Comp    : 0
+Flash Exposure Bracket Value    : 0.0
+Exposure Bracket Value          : 0
+Crop Hi Speed                   : Off (7424x4924 cropped to 7424x4924 at pixel 0,0)
+Exposure Tuning                 : 0
+Serial Number                   : 6002647
+Color Space                     : sRGB
+VR Info Version                 : 0100
+Vibration Reduction             : Off
+VR Mode                         : Normal
+Active D-Lighting               : Low
+Picture Control Version         : 0100
+Picture Control Name            : MediaFotogafie
+Picture Control Base            : Standard
+Picture Control Adjust          : Default Settings
+Picture Control Quick Adjust    : n/a
+Brightness                      : Normal
+Hue Adjustment                  : None
+Filter Effect                   : n/a
+Toning Effect                   : n/a
+Toning Saturation               : n/a
+Time Zone                       : +01:00
+Daylight Savings                : No
+Date Display Format             : D/M/Y
+ISO Expansion                   : Off
+ISO2                            : 400
+ISO Expansion 2                 : Off
+Vignette Control                : Normal
+Auto Distortion Control         : On
+Lens Type                       : G
+Lens                            : 50mm f/1.8
+Flash Mode                      : Did Not Fire
+Shooting Mode                   : Continuous, Auto ISO
+Contrast Curve                  : (Binary data 578 bytes, use -b option to extract)
+Shot Info Version               : 0222
+Firmware Version                : 1.02a
+Repeating Flash Output External : 1
+Flash Exposure Comp 2           : 0
+Sequence Number                 : 0
+Auto Bracketing Set             : AE & Flash
+Auto Bracket Order              : 0,-,+
+Auto Bracketing Mode            : Flash/Speed
+Flash Sync Speed                : 1/250 s
+Flash Shutter Speed             : 1/30 s
+Flash Control Built-in          : TTL
+Commander Channel               : 1
+Commander Internal Flash        : TTL
+Commander Internal Manual Output: Full
+Commander Group A Mode          : TTL
+Commander Group A Manual Output : Full
+Commander Group B Mode          : TTL
+Commander Group B Manual Output : Full
+Modeling Flash                  : On
+Commander Internal TTL Comp     : 0
+Commander Group A TTL-AA Comp   : 0
+Commander Group B TTL-AA Comp   : 0
+Noise Reduction                 : Off
+WB GRBG Levels                  : 256 406 415 256
+Lens Data Version               : 0204
+Exit Pupil Position             : 68.3 mm
+AF Aperture                     : 1.8
+Focus Position                  : 0x11
+Focus Distance                  : 1.50 m
+Lens ID Number                  : 176
+Lens F Stops                    : 6.33
+Min Focal Length                : 50.4 mm
+Max Focal Length                : 50.4 mm
+Max Aperture At Min Focal       : 1.8
+Max Aperture At Max Focal       : 1.8
+MCU Version                     : 178
+Effective Max Aperture          : 1.8
+Raw Image Center                : 3712 2462
+Retouch History                 : None
+Shutter Count                   : 19530
+Flash Info Version              : 0105
+Flash Source                    : None
+External Flash Firmware         : n/a
+External Flash Flags            : (none)
+Flash Commander Mode            : Off
+Flash Control Mode              : Off
+Flash Compensation              : 0
+Flash GN Distance               : 0
+Flash Color Filter              : None
+Flash Group A Control Mode      : Off
+Flash Group B Control Mode      : Off
+Flash Group C Control Mode      : Off
+Flash Group A Compensation      : 0
+Flash Group B Compensation      : 0
+Flash Group C Compensation      : 0
+External Flash Compensation     : 0
+Flash Exposure Comp 3           : 0
+Flash Exposure Comp 4           : 0
+Multi Exposure Version          : 0100
+Multi Exposure Mode             : Off
+Multi Exposure Shots            : 0
+Multi Exposure Auto Gain        : Off
+High ISO Noise Reduction        : Normal
+Power Up Time                   : 2012:04:09 20:33:42
+AF Info 2 Version               : 0100
+Contrast Detect AF              : Off
+AF Area Mode                    : Auto-area
+Phase Detect AF                 : On (51-point)
+Primary AF Point                : D6
+AF Points Used                  : B5,B6,C5,C6,C7,D5,D6
+Contrast Detect AF In Focus     : No
+File Info Version               : 0100
+Directory Number                : 104
+File Number                     : 8859
+AF Fine Tune                    : Off
+AF Fine Tune Index              : n/a
+AF Fine Tune Adj                : 0
+Retouch Info Version            : 0200
+Retouch NEF Processing          : Off
+User Comment                    : MediaFotografie D800 6002647
+Sub Sec Time                    : 50
+Sub Sec Time Original           : 50
+Sub Sec Time Digitized          : 50
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 50 mm
+Scene Capture Type              : Standard
+Gain Control                    : Low gain up
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+GPS Version ID                  : 2.3.0.0
+Date/Time Original              : 2013:12:08 15:30:51
+TIFF-EP Standard ID             : 1 0 0 0
+Aperture                        : 3.3
+Auto Focus                      : On
+Blue Balance                    : 1.621094
+CFA Pattern                     : [Red,Green][Green,Blue]
+Image Size                      : 7424x4924
+Jpg From Raw                    : (Binary data 2565773 bytes, use -b option to extract)
+Lens ID                         : AF-S Nikkor 50mm f/1.8G
+Lens                            : 50mm f/1.8 G
+Megapixels                      : 36.6
+Other Image                     : (Binary data 800901 bytes, use -b option to extract)
+Preview Image                   : (Binary data 99932 bytes, use -b option to extract)
+Red Balance                     : 1.585938
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/125
+Create Date                     : 2013:12:08 15:30:51.50
+Date/Time Original              : 2013:12:08 15:30:51.50
+Modify Date                     : 2013:12:08 15:30:51.50
+Circle Of Confusion             : 0.030 mm
+Depth Of Field                  : 0.17 m (1.42 - 1.59 m)
+Field Of View                   : 38.4 deg (1.04 m)
+Focal Length                    : 50.0 mm (35 mm equivalent: 50.0 mm)
+Hyperfocal Distance             : 25.21 m
+Light Value                     : 8.4
+======== res/Bild_20172_03.DNG
+ExifTool Version Number         : 10.10
+File Name                       : Bild_20172_03.DNG
+Directory                       : res
+File Size                       : 22 MB
+File Modification Date/Time     : 2017:12:14 14:13:39+01:00
+File Access Date/Time           : 2017:12:14 14:15:02+01:00
+File Inode Change Date/Time     : 2017:12:14 14:13:39+01:00
+File Permissions                : rw-rw-r--
+File Type                       : DNG
+File Type Extension             : dng
+MIME Type                       : image/x-adobe-dng
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Leica Camera AG
+Camera Model Name               : LEICA M (Typ 240)
+Orientation                     : Horizontal (normal)
+Software                        :        2.0.0.11
+Modify Date                     : 2013:12:08 15:44:53
+Artist                          : Thomas Walter
+Subfile Type                    : Full-resolution Image
+Image Width                     : 5984
+Image Height                    : 4000
+Bits Per Sample                 : 16
+Compression                     : JPEG
+Photometric Interpretation      : Color Filter Array
+Strip Offsets                   : 16830
+Samples Per Pixel               : 1
+Rows Per Strip                  : 4000
+Strip Byte Counts               : 22955692
+X Resolution                    : 300
+Y Resolution                    : 300
+Planar Configuration            : Chunky
+Resolution Unit                 : inches
+CFA Repeat Pattern Dim          : 2 2
+CFA Pattern 2                   : 2 1 1 0
+Black Level Repeat Dim          : 1 1
+Black Level                     : 0
+White Level                     : 15000
+Default Crop Origin             : 4 4
+Default Crop Size               : 5976 3992
+Bayer Green Split               : 50
+Anti Alias Strength             : 0
+Y Cb Cr Coefficients            : 0.299 0.587 0.114
+Reference Black White           : 0 255 128 255 128 255
+XMP Toolkit                     : Adobe XMP Core 5.5-c002 1.148022, 2012/07/15-18:06:45
+Format                          : image/dng
+Creator Tool                    :        2.0.0.11
+Rating                          : 0
+Metadata Date                   : 2013:12:18 15:22:19+01:00
+Lens                            : Summilux-M 1:1.4/35 ASPH.
+Date Created                    : 2013:12:08 15:44:53
+Document ID                     : 30303030303030303030353632303033
+Original Document ID            : 30303030303030303030353632303033
+Instance ID                     : xmp.iid:3f87edfb-5929-3f4b-ac3b-9199f37eaf92
+Raw File Name                   : M2403005.DNG
+Version                         : 8.3
+Process Version                 : 6.7
+White Balance                   : As Shot
+Auto White Version              : 134348800
+Color Temperature               : 2900
+Tint                            : -20
+Luminance Smoothing             : 0
+Color Noise Reduction           : 25
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Color Noise Reduction Detail    : 50
+Color Noise Reduction Smoothness: 50
+Lens Profile Enable             : 0
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : 0
+Auto Lateral CA                 : 0
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Clarity 2012                    : 0
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Convert To Grayscale            : False
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 7CCBA6DDDDFC0F5EC64D8E48C71A8E0A
+Lens Profile Setup              : LensDefaults
+Has Settings                    : True
+Has Crop                        : False
+Already Applied                 : False
+Photographic Sensitivity        : 320
+Creator                         : Thomas Walter
+Rights                          : MediaFotografie
+History Action                  : saved
+History Instance ID             : xmp.iid:3f87edfb-5929-3f4b-ac3b-9199f37eaf92
+History When                    : 2013:12:18 15:22:19+01:00
+History Software Agent          : Adobe Photoshop Camera Raw 8.3 (Windows)
+History Changed                 : /metadata
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Copyright                       : MediaFotografie
+Exposure Time                   : 1/60
+F Number                        : 4.8
+Exposure Program                : Aperture-priority AE
+ISO                             : 320
+Exif Version                    : 0220
+Create Date                     : 2013:12:08 15:44:53
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/73
+Aperture Value                  : 4.8
+Exposure Compensation           : -1
+Max Aperture Value              : 1.4
+Metering Mode                   : Center-weighted average
+Light Source                    : Tungsten (Incandescent)
+Flash                           : No Flash
+Focal Length                    : 35.0 mm
+Preview Image                   : (Binary data 355328 bytes, use -b option to extract)
+Warning                         : [minor] Error reading value for MakerNotes entry 2
+Lens Type                       : Summilux-M 1:1.4/35 ASPH.
+Color Space                     : sRGB
+Exif Image Width                : 5984
+Exif Image Height               : 4000
+Focal Plane X Resolution        : 1653.333344
+Focal Plane Y Resolution        : 1653.333344
+Focal Plane Resolution Unit     : cm
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Digital Zoom Ratio              : 0
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Hard
+Image Unique ID                 : 00000000000000000000000000562003
+Serial Number                   : 4788984
+Lens Model                      : Summilux-M 1:1.4/35 ASPH.
+GPS Version ID                  : 2.2.0.0
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 00:00:00
+GPS Status                      : Measurement Void
+GPS Dilution Of Precision       : 0
+GPS Speed Ref                   : Unknown ()
+GPS Speed                       : 0
+GPS Track                       : 0
+GPS Date Stamp                  : 0000:00:00
+Self Timer Mode                 : 0
+Date/Time Original              : 2013:12:08 15:44:53
+TIFF-EP Standard ID             : 0 0 0 1
+DNG Version                     : 1.3.0.0
+DNG Backward Version            : 1.1.0.0
+Unique Camera Model             : LEICA M (Typ 240)
+Color Matrix 1                  : 0.7571 -0.2249 -0.0223 -0.4171 1.3145 0.1062 -0.0357 0.1601 0.7591
+Color Matrix 2                  : 0.6653 -0.1486 -0.0611 -0.4221 1.3303 0.0929 -0.0881 0.2416 0.7226
+Camera Calibration 1            : 1 0 0 0 1 0 0 0 1
+Camera Calibration 2            : 1 0 0 0 1 0 0 0 1
+As Shot Neutral                 : 0.6497461929 1 0.547008547
+Baseline Exposure               : 0
+Baseline Noise                  : 1
+Baseline Sharpness              : 1
+Linear Response Limit           : 1
+Camera Serial Number            : 4788984
+Shadow Scale                    : 1
+Calibration Illuminant 1        : Standard Light A
+Calibration Illuminant 2        : D65
+Raw Data Unique ID              : 30303030303030303030353632303033
+Aperture                        : 4.8
+CFA Pattern                     : [Blue,Green][Green,Red]
+GPS Altitude                    : 0 m Above Sea Level
+GPS Date/Time                   : 0000:00:00 00:00:00Z
+Image Size                      : 5984x4000
+Megapixels                      : 23.9
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/60
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 54.7 deg
+Focal Length                    : 35.0 mm (35 mm equivalent: 34.8 mm)
+Hyperfocal Distance             : 8.44 m
+Lens ID                         : Summilux-M 1:1.4/35 ASPH.
+Light Value                     : 8.8
+======== res/Bild_20172_04.DNG
+ExifTool Version Number         : 10.10
+File Name                       : Bild_20172_04.DNG
+Directory                       : res
+File Size                       : 41 MB
+File Modification Date/Time     : 2017:12:14 14:13:46+01:00
+File Access Date/Time           : 2017:12:14 14:15:04+01:00
+File Inode Change Date/Time     : 2017:12:14 14:13:46+01:00
+File Permissions                : rw-rw-r--
+File Type                       : DNG
+File Type Extension             : dng
+MIME Type                       : image/x-adobe-dng
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : LEICA CAMERA AG
+Camera Model Name               : LEICA SL (Typ 601)
+Orientation                     : Horizontal (normal)
+Software                        : 1.20
+Modify Date                     : 2016:01:05 13:16:38
+Artist                          : Thomas Walter
+Subfile Type                    : Full-resolution Image
+Image Width                     : 6120
+Image Height                    : 4016
+Bits Per Sample                 : 14
+Compression                     : Uncompressed
+Photometric Interpretation      : Color Filter Array
+Strip Offsets                   : 108032
+Samples Per Pixel               : 1
+Rows Per Strip                  : 4016
+Strip Byte Counts               : 43011584
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+CFA Repeat Pattern Dim          : 2 2
+CFA Pattern 2                   : 2 1 1 0
+CFA Layout                      : Rectangular
+Black Level Repeat Dim          : 2 2
+Black Level                     : 512 512 512 512
+White Level                     : 16383
+Default Crop Origin             : 8 8
+Default Crop Size               : 6000 4000
+Bayer Green Split               : 0
+Anti Alias Strength             : 0.7
+Best Quality Scale              : 1
+Raw Data Unique ID              : 4D0226100D0501E007C6C34B00000000
+Active Area                     : 0 0 4016 6016
+Opcode List 1                   : (Binary data 28 bytes, use -b option to extract)
+Opcode List 3                   : (Binary data 184 bytes, use -b option to extract)
+Default User Crop               : 0 0 1 1
+XMP Toolkit                     : Adobe XMP Core 5.6-c011 79.156380, 2014/05/21-23:38:37
+Format                          : image/dng
+Creator Tool                    : 1.20
+Label                           : Januar 2016
+Metadata Date                   : 2016:01:05 18:17:54+01:00
+Lens                            : VARIO-ELMARIT 1:2.8-4.0/24-90mm ASPH. OIS
+Date Created                    : 2016:01:05 13:16:38
+Category                        : 2015
+Headline                        : Januar 2016
+Caption Writer                  : Thomas Walter
+Document ID                     : 0831583138E72EECB0D02FD94E5B9ED6
+Original Document ID            : 0831583138E72EECB0D02FD94E5B9ED6
+Instance ID                     : xmp.iid:3bf3cbca-2bf3-45e6-a8eb-a30f6366a288
+Marked                          : True
+Web Statement                   : www.ceres.uni-tuebingen.de
+Good                            : False
+Version                         : 9.3
+Process Version                 : 6.7
+White Balance                   : Custom
+Auto White Version              : 134348800
+Color Temperature               : 5500
+Tint                            : -6
+Luminance Smoothing             : 0
+Color Noise Reduction           : 0
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : +10
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Lens Profile Enable             : 1
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : 0
+Auto Lateral CA                 : 0
+Exposure 2012                   : 0.00
+Contrast 2012                   : 0
+Highlights 2012                 : 0
+Shadows 2012                    : 0
+Whites 2012                     : 0
+Blacks 2012                     : 0
+Clarity 2012                    : +5
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Dehaze                          : 0
+Tone Map Strength               : 0
+Convert To Grayscale            : False
+Tone Curve Name                 : Medium Contrast
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 28C1750C96EEAA9DFFBD1563FE0EEC67
+Lens Profile Setup              : LensDefaults
+Has Settings                    : True
+Crop Top                        : 0.296647
+Crop Left                       : 0.227043
+Crop Bottom                     : 0.746252
+Crop Right                      : 0.759908
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : True
+Already Applied                 : False
+Raw File Name                   : L1070589.DNG
+Creator                         : Thomas Walter
+Rights                          : Thomas Walter
+Subject                         : Januar 2016, MediaFotografie
+History Action                  : saved
+History Instance ID             : xmp.iid:3bf3cbca-2bf3-45e6-a8eb-a30f6366a288
+History When                    : 2016:01:05 18:17:54+01:00
+History Software Agent          : Adobe Photoshop Lightroom 6.3 (Macintosh)
+History Changed                 : /metadata
+Tone Curve                      : 0, 0, 32, 22, 64, 56, 128, 128, 192, 196, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Creator Postal Code             : D-72074 Tübingen
+Creator Work Email              : thomas.walter@uni-tuebingen.de
+Creator City                    : Tübingen
+Creator Address                 : Im Schönblick 10/2
+Creator Country                 : Deutschland
+Creator Work URL                : www.ceres.uni-tuebingen.de
+Hierarchical Subject            : Januar 2016, MediaFotografie
+Copyright                       : Thomas Walter
+Exposure Time                   : 1/125
+F Number                        : 16.0
+Exposure Program                : Manual
+ISO                             : 100
+Sensitivity Type                : Standard Output Sensitivity
+Exif Version                    : 0230
+Date/Time Original              : 2016:01:05 13:16:38
+Create Date                     : 2016:01:05 13:16:38
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/125
+Aperture Value                  : 16.0
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Center-weighted average
+Light Source                    : Flash
+Flash                           : Off, Did not fire
+Focal Length                    : 90.0 mm
+Original File Name              : L1070589.DNG
+Original Directory              : 107LEICA
+File Index                      : 589
+Film Mode                       : 
+WB RGB Levels                   : 0.5117441279 1 0.7585185185
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 6120
+Exif Image Height               : 4016
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Custom Rendered                 : Normal
+Digital Zoom Ratio              : undef
+Focal Length In 35mm Format     : 90 mm
+Scene Capture Type              : Standard
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Serial Number                   : 4965318
+Lens Info                       : 24-90mm f/3-3.9140625
+Lens Make                       : LEICA CAMERA AG
+Lens Model                      : VARIO-ELMARIT 1:2.8-4.0/24-90mm ASPH. OIS
+Lens Serial Number              : 4519033
+GPS Version ID                  : 2.3.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Time Stamp                  : 00:00:00
+GPS Status                      : Measurement Void
+GPS Measure Mode                : 3-Dimensional Measurement
+GPS Map Datum                   : WGS-84
+GPS Date Stamp                  : 2016:01:05
+DNG Version                     : 1.4.0.0
+DNG Backward Version            : 1.3.0.0
+Unique Camera Model             : LEICA SL (Typ 601)
+Localized Camera Model          : LEICA SL (Typ 601)
+Color Matrix 1                  : 1.2587 -0.5232 -0.1496 -0.361 1.0841 0.0277 -0.0911 0.1674 0.207
+Color Matrix 2                  : 0.8389 -0.3198 -0.1019 -0.3834 1.0222 0.0661 -0.1122 0.19 0.3415
+As Shot Neutral                 : 0.5117441279 1 0.7585185185
+Baseline Noise                  : 1
+Baseline Sharpness              : 1
+Linear Response Limit           : 1
+Camera Serial Number            : 4965318
+Maker Note Safety               : Safe
+Calibration Illuminant 1        : Standard Light A
+Calibration Illuminant 2        : D50
+Aperture                        : 16.0
+Blue Balance                    : 0.758519
+CFA Pattern                     : [Blue,Green][Green,Red]
+GPS Date/Time                   : 2016:01:05 00:00:00Z
+GPS Latitude                    : 48 deg 31' 58.02" N
+GPS Longitude                   : 9 deg 3' 20.15" E
+GPS Position                    : 48 deg 31' 58.02" N, 9 deg 3' 20.15" E
+Image Size                      : 6120x4016
+Megapixels                      : 24.6
+Red Balance                     : 0.511744
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/125
+Circle Of Confusion             : 0.030 mm
+Field Of View                   : 22.6 deg
+Focal Length                    : 90.0 mm (35 mm equivalent: 90.0 mm)
+Hyperfocal Distance             : 16.85 m
+Light Value                     : 15.0
+======== res/Bild_20172_05.DNG
+ExifTool Version Number         : 10.10
+File Name                       : Bild_20172_05.DNG
+Directory                       : res
+File Size                       : 42 MB
+File Modification Date/Time     : 2017:12:14 14:13:41+01:00
+File Access Date/Time           : 2017:12:14 14:15:03+01:00
+File Inode Change Date/Time     : 2017:12:14 14:13:41+01:00
+File Permissions                : rw-rw-r--
+File Type                       : DNG
+File Type Extension             : dng
+MIME Type                       : image/x-adobe-dng
+Exif Byte Order                 : Little-endian (Intel, II)
+Make                            : LEICA CAMERA AG
+Camera Model Name               : LEICA SL (Typ 601)
+Orientation                     : Horizontal (normal)
+Software                        : 2.10
+Modify Date                     : 2016:12:10 11:11:15
+Artist                          : Thomas Walter
+Image Width                     : 6120
+Image Height                    : 4016
+Bits Per Sample                 : 14
+Compression                     : Uncompressed
+Photometric Interpretation      : Color Filter Array
+Strip Offsets                   : 1470464
+Samples Per Pixel               : 1
+Rows Per Strip                  : 4016
+Strip Byte Counts               : 43011584
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+CFA Repeat Pattern Dim          : 2 2
+CFA Pattern 2                   : 2 1 1 0
+CFA Layout                      : Rectangular
+Black Level Repeat Dim          : 2 2
+Black Level                     : 512 512 512 512
+White Level                     : 16383
+Default Crop Origin             : 8 8
+Default Crop Size               : 6000 4000
+Bayer Green Split               : 0
+Anti Alias Strength             : 0.7
+Best Quality Scale              : 1
+Raw Data Unique ID              : 94020F0B0B0A0CE007C6C34B00000000
+Active Area                     : 0 0 4016 6016
+Opcode List 1                   : (Binary data 28 bytes, use -b option to extract)
+Opcode List 3                   : (Binary data 184 bytes, use -b option to extract)
+Default User Crop               : 0.078 0 0.922 1
+Preview Image Start             : 1331200
+Preview Image Length            : 139264
+Subfile Type                    : Reduced-resolution image
+Jpg From Raw Start              : 111104
+Jpg From Raw Length             : 1220096
+XMP Toolkit                     : Adobe XMP Core 5.6-c128 79.159124, 2016/03/18-14:01:55
+About                           : Leica Camera AG
+Creator Tool                    : 2.10
+Label                           : Dezember 2016
+Metadata Date                   : 2016:12:11 11:21:52+01:00
+Format                          : image/dng
+Lens                            : SUMMILUX-SL 1:1.4/50 ASPH.
+Date Created                    : 2016:12:10 11:11:15
+Category                        : 2016
+Headline                        : Dezember 2016
+Caption Writer                  : Thomas Walter
+Document ID                     : 784EDA57492945A306845BFA450E4199
+Original Document ID            : 784EDA57492945A306845BFA450E4199
+Instance ID                     : xmp.iid:7b8d7f86-d9ed-4de0-9754-15352ceab86d
+Marked                          : True
+Web Statement                   : www.ceres.uni-tuebingen.de
+Version                         : 9.8
+Process Version                 : 6.7
+White Balance                   : As Shot
+Auto White Version              : 134348800
+Color Temperature               : 5150
+Tint                            : +6
+Luminance Smoothing             : 0
+Color Noise Reduction           : 0
+Vignette Amount                 : 0
+Shadow Tint                     : 0
+Red Hue                         : 0
+Red Saturation                  : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Vibrance                        : +10
+Hue Adjustment Red              : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Yellow           : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Magenta          : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Yellow    : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Magenta   : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Yellow     : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Magenta    : 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Balance            : 0
+Parametric Shadows              : 0
+Parametric Darks                : 0
+Parametric Lights               : 0
+Parametric Highlights           : 0
+Parametric Shadow Split         : 25
+Parametric Midtone Split        : 50
+Parametric Highlight Split      : 75
+Sharpen Radius                  : +1.0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Post Crop Vignette Amount       : 0
+Grain Amount                    : 0
+Lens Profile Enable             : 1
+Lens Manual Distortion Amount   : 0
+Perspective Vertical            : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Aspect              : 0
+Perspective Upright             : 0
+Perspective X                   : 0.00
+Perspective Y                   : 0.00
+Auto Lateral CA                 : 0
+Exposure 2012                   : +0.20
+Contrast 2012                   : -1
+Highlights 2012                 : -33
+Shadows 2012                    : +33
+Whites 2012                     : +25
+Blacks 2012                     : -6
+Clarity 2012                    : +5
+Defringe Purple Amount          : 0
+Defringe Purple Hue Lo          : 30
+Defringe Purple Hue Hi          : 70
+Defringe Green Amount           : 0
+Defringe Green Hue Lo           : 40
+Defringe Green Hue Hi           : 60
+Dehaze                          : 0
+Tone Map Strength               : 0
+Convert To Grayscale            : False
+Tone Curve Name                 : Medium Contrast
+Tone Curve Name 2012            : Linear
+Camera Profile                  : Adobe Standard
+Camera Profile Digest           : 28C1750C96EEAA9DFFBD1563FE0EEC67
+Lens Profile Setup              : LensDefaults
+Upright Version                 : 151388160
+Upright Center Mode             : 0
+Upright Center Norm X           : 0.5
+Upright Center Norm Y           : 0.5
+Upright Focal Mode              : 0
+Upright Focal Length 35mm       : 35
+Upright Preview                 : False
+Upright Transform Count         : 6
+Upright Four Segments Count     : 0
+Has Settings                    : True
+Crop Top                        : 0.017454
+Crop Left                       : 0
+Crop Bottom                     : 0.861454
+Crop Right                      : 1
+Crop Angle                      : 0
+Crop Constrain To Warp          : 0
+Has Crop                        : True
+Already Applied                 : False
+Raw File Name                   : L1050660.DNG
+Creator                         : Thomas Walter
+Rights                          : Thomas Walter
+Subject                         : Dezember 2016, MediaFotografie
+History Action                  : saved
+History Instance ID             : xmp.iid:7b8d7f86-d9ed-4de0-9754-15352ceab86d
+History When                    : 2016:12:11 11:21:52+01:00
+History Software Agent          : Adobe Photoshop Lightroom 6.8 (Macintosh)
+History Changed                 : /metadata
+Tone Curve                      : 0, 0, 32, 22, 64, 56, 128, 128, 192, 196, 255, 255
+Tone Curve Red                  : 0, 0, 255, 255
+Tone Curve Green                : 0, 0, 255, 255
+Tone Curve Blue                 : 0, 0, 255, 255
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Creator Postal Code             : D-72076
+Creator Country                 : Deutschland
+Creator Work Email              : thomas.walter@uni-tuebingen.de
+Creator City                    : Tübingen
+Creator Address                 : Im Schönblick 10/2
+Creator Work URL                : www.ceres.uni-tuebingen.de
+Hierarchical Subject            : Dezember 2016, MediaFotografie
+Copyright                       : Thomas Walter
+Exposure Time                   : 1/4000
+F Number                        : 1.4
+Exposure Program                : Aperture-priority AE
+ISO                             : 50
+Sensitivity Type                : Standard Output Sensitivity
+Exif Version                    : 0230
+Date/Time Original              : 2016:12:10 11:11:15
+Create Date                     : 2016:12:10 11:11:15
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/4000
+Aperture Value                  : 1.4
+Exposure Compensation           : 0
+Max Aperture Value              : 1.4
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : Off, Did not fire
+Focal Length                    : 50.0 mm
+Original File Name              : L1050660.DNG
+Original Directory              : 105LEICA
+File Index                      : 660
+Film Mode                       : 
+WB RGB Levels                   : 0.536687631 1 0.6645035691
+User Comment                    : Dezember 2016
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 6120
+Exif Image Height               : 4016
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Custom Rendered                 : Normal
+Digital Zoom Ratio              : undef
+Focal Length In 35mm Format     : 52 mm
+Scene Capture Type              : Standard
+Contrast                        : Low
+Saturation                      : Low
+Sharpness                       : Soft
+Serial Number                   : 4965318
+Lens Info                       : 50mm f/1
+Lens Make                       : LEICA CAMERA AG
+Lens Model                      : SUMMILUX-SL 1:1.4/50 ASPH.
+Lens Serial Number              : N/A
+GPS Version ID                  : 2.3.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Above Sea Level
+GPS Time Stamp                  : 10:11:15
+GPS Status                      : Measurement Active
+GPS Measure Mode                : 3-Dimensional Measurement
+GPS Map Datum                   : WGS-84
+GPS Date Stamp                  : 2016:12:10
+DNG Version                     : 1.4.0.0
+DNG Backward Version            : 1.3.0.0
+Unique Camera Model             : LEICA SL (Typ 601)
+Localized Camera Model          : LEICA SL (Typ 601)
+Color Matrix 1                  : 1.2587 -0.5232 -0.1496 -0.361 1.0841 0.0277 -0.0911 0.1674 0.207
+Color Matrix 2                  : 0.8389 -0.3198 -0.1019 -0.3834 1.0222 0.0661 -0.1122 0.19 0.3415
+As Shot Neutral                 : 0.536687631 1 0.6645035691
+Baseline Noise                  : 1
+Baseline Sharpness              : 1
+Linear Response Limit           : 1
+Camera Serial Number            : 4965318
+Maker Note Safety               : Unsafe
+Calibration Illuminant 1        : Standard Light A
+Calibration Illuminant 2        : D50
+Aperture                        : 1.4
+Blue Balance                    : 0.664504
+CFA Pattern                     : [Blue,Green][Green,Red]
+GPS Altitude                    : 0 m Above Sea Level
+GPS Date/Time                   : 2016:12:10 10:11:15Z
+GPS Latitude                    : 48 deg 31' 9.31" N
+GPS Longitude                   : 9 deg 3' 28.50" E
+GPS Position                    : 48 deg 31' 9.31" N, 9 deg 3' 28.50" E
+Image Size                      : 6120x4016
+Jpg From Raw                    : (Binary data 1220096 bytes, use -b option to extract)
+Megapixels                      : 24.6
+Preview Image                   : (Binary data 139264 bytes, use -b option to extract)
+Red Balance                     : 0.536688
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 1/4000
+Circle Of Confusion             : 0.029 mm
+Field Of View                   : 38.2 deg
+Focal Length                    : 50.0 mm (35 mm equivalent: 52.0 mm)
+Hyperfocal Distance             : 61.81 m
+Light Value                     : 13.9
+    5 image files read
