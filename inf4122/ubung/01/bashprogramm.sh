@@ -2,5 +2,5 @@
 
 for ((I=0; $I<50; I++))
 do
-  man gcc >> gcc.man;
+  man gcc >> src/gcc.man;
 done
