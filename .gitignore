@@ -1,2 +1,6 @@
 *.DS_Store
 *Eyetrace64/
+*.zip
+*.tar.gz
+*.tgz
+
