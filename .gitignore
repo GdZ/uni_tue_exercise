@@ -3,4 +3,11 @@
 *.zip
 *.tar.gz
 *.tgz
+*folien
+*folien/
 
+*.xz
+*tar
+*tgz
+*bz2
+*zip
