@@ -4,7 +4,6 @@
 
 ![](https://i.imgur.com/Kxwa2tW.jpg)
 
-
 ### Das Betriebssystem[x]
 
 - verwaltet _die Ressourcen der Hardware_(wie z.B. _Geräte_, _Speicher_ und
@@ -380,4 +379,8 @@ Organisation in Segmenten (Speicherbereiche gleicher Nutzungsart)
 
 	- user-level control block + stack
 		-
+
+
+
+
 

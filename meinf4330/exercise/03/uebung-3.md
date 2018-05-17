@@ -13,8 +13,7 @@
 
     ​
 
-    (c) Welche Blende wird für ISO/ASA 800 und eine Belichtungszeit von T = 1/60 s
-    benötigt?
+    (c) Welche Blende wird für ISO/ASA 800 und eine Belichtungszeit von T = 1/60 s benötigt?
 
     >   c
 

@@ -53,7 +53,7 @@ imwrite(brightness, GL_IMG_BRIGHTNESS);
 %%% exercise 03.03-04
 contrast = Contrast(gray_scale);
 %% exercise 03.03-04: output
-imwrite(contrast, GL_IMG_CONTRAST)
+imwrite(contrast, GL_IMG_CONTRAST);
 %%% exercise 03.05
 contrast_r = Contrast(img_example(:,:,IDX_R));
 contrast_g = Contrast(img_example(:,:,IDX_G));
@@ -78,12 +78,12 @@ img_contrast_diff(:,:,IDX_B) = contrast_diff_b;
 
 %% =========================================
 % exercise 4
-saliency_maps = [];
-pos = [];
-for i=26:length(img_example(:,1,IDX_R))-26
-	for j=26:length(img_example(1,:,IDX_R))-26
-		pos = [ pos; i j ];
-	end
-end
-
+%saliency_maps = [];
+%pos = [];
+%for i=26:length(img_example(:,1,IDX_R))-26
+%	for j=26:length(img_example(1,:,IDX_R))-26
+%		pos = [ pos; i j ];
+%	end
+%end
 %saliency_maps = [ saliency_maps Saliency(i', j, img_example(:,:,IDX_R)) ];
+

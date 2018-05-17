@@ -46,9 +46,3 @@
 [submodule "vorkurs/tool-kit/matdb"]
 	path = vorkurs/tool-kit/matdb
 	url = https://github.com/djoshea/matdb.git
-[submodule "inf4151"]
-	path = INF4151
-	url = git@github.com:HilfenAtUni/inf4151.git
-[submodule "inf4122"]
-	path = inf4122
-	url = git@github.com:HilfenAtUni/inf4122.git

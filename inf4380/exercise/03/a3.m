@@ -92,5 +92,5 @@ norm_2_3 = max(ex3_with_costs)*length(ex3_with_costs)
 %%      i. Matrix[i-1, j] + gap
 %% 		ii. Matrix[i, j-1] + gap
 scanMatchWithGaps(ex1_with_output, ex2_with_output);
-%scanMatchWithGaps(ex1_with_output, ex3_with_output)
-%scanMatchWithGaps(ex2_with_output, ex3_with_output)
+scanMatchWithGaps(ex1_with_output, ex3_with_output);
+scanMatchWithGaps(ex2_with_output, ex3_with_output);
